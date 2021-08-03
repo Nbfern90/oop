@@ -33,4 +33,8 @@ john.make_deposit(1000)
 john.make_withdrawl(200)
 john.make_withdrawl(100)
 john.make_withdrawl(200)
+<<<<<<< HEAD
 john.display_user_balance()
+=======
+
+>>>>>>> 3090a584cafd6606e671df92f9e1bbbe9167eed1
