@@ -33,6 +33,3 @@ john.make_deposit(1000)
 john.make_withdrawl(200)
 john.make_withdrawl(100)
 john.make_withdrawl(200)
-
-
-def transfer_money(self)
