@@ -32,7 +32,7 @@ class User:
 
     def display_user_balance(self):
         print(
-            f"User: {self.name}, Balance {self.account.dispaly_account_info()}")
+            f"User: {self.name}, Balance {self.account.balance}")
         return self
 
 
@@ -40,3 +40,4 @@ nick = User("nick")
 
 nick.account.deposit(100)
 nick.display_user_balance()
+nick.account.dispaly_account_info()
